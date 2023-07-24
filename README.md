@@ -15,11 +15,13 @@
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+
+* Install all packages with $ npm install.
+* Build the project using webpack with $ npm run build
+* Start a development server with $ npm run start
+* Lint JS files in the src folder with $ npm run lint
+* Run tests with Jest using $ npm run test
+
 
 ## Known Bugs
 
